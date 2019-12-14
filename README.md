@@ -1,7 +1,7 @@
 # url-shortener
 Simple URL Shortener using Netlify Redirects
 
-https://url.tracecea.co/
+https://url.tracecea.co/redirects
 
 ### Adding Entry
 

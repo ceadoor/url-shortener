@@ -1,7 +1,7 @@
 # url-shortener
 Simple URL Shortener using Netlify Redirects
 
-https://tracecea-url-shortener.netlify.com/
+https://url.tracecea.co/
 
 ### Adding Entry
 
@@ -14,13 +14,9 @@ Update `_redirects` file with
 
 Example
 ```
-https://tracecea-url-shortener.netlify.com/github
+https://url.tracecea.co/github
 ```
 will redirect to 
 ```
 https://github.com/ceadoor
 ```
-
-### Use Case?
-
-Adding Custom Domain to th netlify site will make the links much shorter that the default looooonnnnggg one.
